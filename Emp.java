@@ -8,5 +8,6 @@ public class Emp
 	private Date birth;
 	public void toString(){
 		System.out.println("一位雇员");
+		System.out.println("hello");
 	}
 }
