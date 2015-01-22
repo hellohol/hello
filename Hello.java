@@ -6,5 +6,6 @@ public class Hello
 		System.our.println("Hello World!");
 		System.out.println("merge on ff");
 		System.out.println("merge on ff");
+		System.our.println("test statch");
 	}
 }
