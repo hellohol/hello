@@ -5,5 +5,6 @@ public class Hello
 		System.out.println("新年好啊！");
 		System.our.println("Hello World!");
 		System.out.println("merge on ff");
+		System.out.println("merge on ff");
 	}
 }
